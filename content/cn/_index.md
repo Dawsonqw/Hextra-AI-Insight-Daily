@@ -64,12 +64,12 @@ cascade:
 
 ## 👥 谁在阅读
 
-<div style="display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; margin: 3rem 0;">
-  {{< badge content="AI 从业者" color="blue" icon="briefcase" border=false >}}
-  {{< badge content="技术开发者" color="green" icon="code" border=false >}}
-  {{< badge content="内容创作者" color="purple" icon="sparkles" border=false >}}
-  {{< badge content="效率工具控" color="orange" icon="lightning-bolt" border=false >}}
-  {{< badge content="前瞻性读者" color="gray" icon="eye" border=false >}}
+<div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  {{< hextra/hero-badge >}}💼 AI 从业者{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}💻 技术开发者{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}✨ 内容创作者{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}⚡ 效率工具控{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}👁️ 前瞻性读者{{< /hextra/hero-badge >}}
 </div>
 
 ## 📮 保持联系

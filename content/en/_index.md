@@ -59,12 +59,12 @@ Learn why this site exists, then visit the [Blog](/blog/) for structured guides 
 
 ## 👥 Who Reads This Site
 
-<div style="display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; margin: 3rem 0;">
-  {{< badge content="AI Professionals" color="blue" icon="briefcase" border=false >}}
-  {{< badge content="Developers" color="green" icon="code" border=false >}}
-  {{< badge content="Content Creators" color="purple" icon="sparkles" border=false >}}
-  {{< badge content="Productivity Enthusiasts" color="orange" icon="lightning-bolt" border=false >}}
-  {{< badge content="Forward-Looking Readers" color="gray" icon="eye" border=false >}}
+<div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  {{< hextra/hero-badge >}}💼 AI Professionals{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}💻 Developers{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}✨ Content Creators{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}⚡ Productivity Enthusiasts{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}👁️ Forward-Looking Readers{{< /hextra/hero-badge >}}
 </div>
 
 ## 📮 Stay Connected
