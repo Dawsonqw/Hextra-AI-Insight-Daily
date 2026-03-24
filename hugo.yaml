@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: 何夕2077的AI资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态
+title: Dawsonqw 的 AI 资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态
 
 timezone: Asia/Shanghai
 enableRobotsTXT: true
@@ -57,12 +57,12 @@ menu:
       weight: 4
     - identifier: about      
       name: 关于我 ↗
-      url: "https://github.com/justlovemaki"
+      url: "https://github.com/Dawsonqw"
       weight: 5
     - identifier: github   
       name: 同性交友
       weight: 6
-      url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
+      url: "https://github.com/Dawsonqw/Hextra-AI-Insight-Daily"
       params:
         icon: github
 
@@ -76,20 +76,20 @@ params:
   logo: "images/logo-dark.png"
   
   author:
-    name: "何夕2077的AI资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态"
-    bio: "去海边整点薯条"
-    email: "justlikemaki@qq.com"
-    website: "https://ai.hubtoday.app/about/"
+    name: "Dawsonqw 的 AI 资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    bio: "专注 AI 资讯与效率工具"
+    email: ""
+    website: "https://dawsonqw.github.io/Hextra-AI-Insight-Daily/about/"
     social:
       - name: "GitHub"
-        url: "https://github.com/justlovemaki"
+        url: "https://github.com/Dawsonqw"
         
   publisher:
     type: "Person" 
-    name: "何夕2077的AI资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态"
-    url: "https://ai.hubtoday.app/about/"
+    name: "Dawsonqw 的 AI 资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    url: "https://dawsonqw.github.io/Hextra-AI-Insight-Daily/about/"
     sameAs:
-      - "https://github.com/justlovemaki"
+      - "https://github.com/Dawsonqw"
       
   displayUpdatedDate: false
   dateFormat: "2006/01/02 15:04:05"
@@ -140,7 +140,7 @@ params:
     type: giscus
 
     giscus:
-      repo: justlovemaki/Hextra-AI-Insight-Daily
+      repo: Dawsonqw/Hextra-AI-Insight-Daily
       repoId: R_kgDOO_2Owg
       category: Announcements
       categoryId: DIC_kwDOO_2Ows4Cr2Q0
