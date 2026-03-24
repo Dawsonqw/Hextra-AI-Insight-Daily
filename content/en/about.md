@@ -14,13 +14,9 @@ sidebar:
 
 > 技术为人民服务
 
-#### ✨ 代表作
+#### ✨ 我的主页
 
-*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
-*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
-*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
+*   更多项目细节请见我的 [GitHub](https://github.com/Dawsonqw)。
 
 #### 🌱 当前探索
 
